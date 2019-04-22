@@ -5,7 +5,7 @@ namespace org.red.logic
     class Programa
     {
         static void  Main(){
-            String lolailo = "lerv ele. alalla"; 
+            String lolailo = "lerele. alalla. Cthulhu"; 
             Console.Out.WriteLine(lolailo);
         }
     }
